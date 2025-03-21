@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://ravimanivel.github.io/websites](https://ravimanivel.github.io/websites)
 
