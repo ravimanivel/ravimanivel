@@ -11,9 +11,9 @@
 - 🌱 I’m learning **React** and expanding into **Docker & DevOps**
 - 💼 I specialize in: `MongoDB`, `Express.js`, `Angular`, `Node.js`, `Laravel`, `PHP`, `MySQL`
 - ✨ Featured Projects:
-  - 💳 [E-Commerce Website](https://ravimanivel.github.io/websites)
-  - 📊 [Admin Dashboard](https://ravimanivel.github.io/websites)
-  - 📄 [Resume Builder Tool](https://ravimanivel.github.io/websites)
+  - 💳 [E-Commerce Website](https://ecommerce-site-frontend-psi.vercel.app/)
+  - 📊 [Admin Dashboard](https://ecommerce-admin-frontend-3z7r.vercel.app/)
+  - 📄 [Resume Builder Tool](https://resume-creator-ravi-ms-projects.vercel.app/login)
 - 📫 Reach me at **ravimanivel999@gmail.com**
 
 ---
