@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi</h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer (MEAN + Laravel) from India 🇮🇳</h3>
+<h3 align="center">🚀 A Passionate Full Stack Developer (MEAN + Laravel) </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=MEAN+Stack+Developer;Laravel+Full+Stack+Specialist;Building+robust+web+apps;Love+to+code+%26+learn+tech" alt="Typing SVG" />
