@@ -1,65 +1,69 @@
-<h1 align="center">Hi 👋, I'm Ravi</h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer (MEAN + Laravel) </h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=MEAN+Stack+Developer;Laravel+Full+Stack+Specialist;Building+robust+web+apps;Love+to+code+%26+learn+tech" alt="Typing SVG" />
-</p>
+# 👋 Hi, I'm Ravi, I'm a Full Stack Engineer
 
----
+<p>Building scalable web applications, modern APIs, and high-performance user experiences.</p>
 
-- 🔭 I’m currently working on **Dynamic Web Projects** with **MEAN Stack** and **Laravel**
-- 🌱 I’m learning **React** and expanding into **Docker & DevOps**
-- 💼 I specialize in: `MongoDB`, `Express.js`, `Angular`, `Node.js`, `Laravel`, `PHP`, `MySQL`
-- ✨ Featured Projects:
-  - 💳 [E-Commerce Website](https://ecommerce-site-frontend-psi.vercel.app/)
-  - 📊 [Admin Dashboard](https://ecommerce-admin-frontend-3z7r.vercel.app/)
-  - 📄 [Resume Builder Tool](https://resume-creator-ravi-ms-projects.vercel.app/login)
-- 📫 Reach me at **ravimanivel999@gmail.com**
+</div>
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/ravi-manivel-87887a254" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/meow_attitude" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40" title="React" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" title="Next.js" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" title="MongoDB" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40" title="PHP" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40" title="AWS" />
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/githubactions/ffffff" />
+  <img src="https://cdn.simpleicons.org/githubactions/000000" alt="GitHub Actions" width="40" height="40" title="GitHub Actions" />
+</picture>
+
+</div>
 
 ---
 
-<h3 align="left">🛠️ Tech Stack:</h3>
+## 🌐 Connect With Me
 
-<p align="left">
-  <!-- MEAN Stack -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+<div align="center">
 
-  <!-- Laravel -->
-  <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+<a href="https://linkedin.com/in/ravi-manivel-87887a254" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36" title="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://my-portfolio-ravi-ms-projects.vercel.app" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlechrome/ffffff" />
+    <img src="https://cdn.simpleicons.org/googlechrome/000000" alt="Personal Website" width="36" height="36" title="Personal Website" />
+  </picture>
+</a>
+&nbsp;
+<a href="https://github.com/ravimanivel" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="36" height="36" title="GitHub" />
+</a>
 
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-</p>
-
----
-
-<h3 align="left">📈 GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravimanivel&show_icons=true&theme=tokyonight" alt="Ravi's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravimanivel&theme=tokyonight" alt="Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravimanivel&layout=compact&theme=tokyonight" width="48%" />
-</p>
+</div>
